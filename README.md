@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills:  HTML5 / CSS3 / SASS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / JQUERY /  AJAX / PHP / LARAVEL / CODEIGNITER / MYSQL
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,jquery,react,php,laravel,codeigniter,npm,webpack,vite" />
   </a>

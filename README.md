@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Farhan Shaharier
 #### Full Stack Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a passionate Full Stack Web Developer with a knack for creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and bringing innovative ideas to life.
 
 Skills:  HTML5 / CSS3 / SASS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / JQUERY /  AJAX / PHP / LARAVEL / CODEIGNITER / MYSQL
 

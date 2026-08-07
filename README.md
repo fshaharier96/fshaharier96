@@ -11,11 +11,5 @@ Skills: PHP / PYTHON / LARAVEL / CODEIGNITER / MYSQL /HTML5 / CSS3 / SASS / TAIL
   </a>
 </p>
 
-<h3 align="left">Overview:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fshaharier96)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fshaharier96&show_icons=true)  
-
 
 

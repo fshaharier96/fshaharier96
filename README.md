@@ -2,7 +2,7 @@
 #### Full Stack Web Developer
 I'm a passionate Full Stack Web Developer with a knack for creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and bringing innovative ideas to life.
 
-Skills:  HTML5 / CSS3 / SASS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / JQUERY /  AJAX / PHP / LARAVEL / CODEIGNITER / MYSQL
+Skills: PHP / PYTHON / LARAVEL / CODEIGNITER / MYSQL /HTML5 / CSS3 / SASS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / REACT/ AJAX / AXIOS 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

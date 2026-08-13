@@ -7,7 +7,7 @@ Skills: PHP / PYTHON / LARAVEL / CODEIGNITER / MYSQL /HTML5 / CSS3 / SASS / TAIL
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,jquery,react,php,laravel,codeigniter,npm,webpack,vite,nodejs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,jquery,react,php,laravel,codeigniter,npm,webpack,vite,nodejs,mysql,git,codex,claude,cursor" />
   </a>
 </p>
 

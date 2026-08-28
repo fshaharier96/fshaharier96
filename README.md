@@ -4,10 +4,13 @@ I'm a passionate Full Stack Web Developer with a knack for creating dynamic and 
 
 ### 🛠️ Skills
 
-**Backend:** PHP · Laravel · MySQL · CodeIgniter <br/>
-**Frontend:** React · Redux Toolkit · Vue.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery · Ajax <br/>
-**Tools:** Git · NPM · Composer · Vite · Redis · Postman <br/>
-**AI-Assisted Development:** ChatGPT · Claude · Cursor
+🔧 **Backend** → `PHP` · `Laravel` · `MySQL` · `CodeIgniter`
+
+🎨 **Frontend** → `React` · `Redux Toolkit` · `Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `jQuery` · `Ajax`
+
+⚙️ **Tools** → `Git` · `NPM` · `Composer` · `Vite` · `Redis` · `Postman`
+
+🤖 **AI-Assisted Development** → `ChatGPT` · `Claude` · `Cursor`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -3,6 +3,12 @@
 I'm a passionate Full Stack Web Developer with a knack for creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and bringing innovative ideas to life.
 
 Skills: PHP / PYTHON / LARAVEL / CODEIGNITER / MYSQL /HTML5 / CSS3 / SASS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / REACT/ AJAX / AXIOS 
+### 🛠️ Skills
+
+**Backend:** PHP · Laravel · CodeIgniter · Node.js
+**Frontend:** React · Vue.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery · Ajax
+**Tools:** Git · npm · Docker · Postman
+**AI-Assisted Development:** ChatGPT · Claude
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -15,7 +15,7 @@ I'm a passionate Full Stack Web Developer with a knack for creating dynamic and 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,jquery,react,php,laravel,codeigniter,npm,webpack,vite,nodejs,vuejs,next.js,mysql,git,chatgpt,claude,cursor" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,jquery,react,php,laravel,codeigniter,npm,webpack,vite,nodejs,vuejs,nextjs,mysql,git,chatgpt,claude,cursor" />
   </a>
 </p>
 
